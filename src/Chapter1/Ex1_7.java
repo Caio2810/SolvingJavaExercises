@@ -1,14 +1,5 @@
 package Chapter1;
 
-/*
-(Approximate pi) pi can be computed using the following formula:
-
-PI = 4 * (1 - (1/3) + (1/5) - (1/7) + (1/9) - (1/11) + ...);
-
-Write a program that displays the result of 4 * (1 - (1/3) + (1/5) - (1/7) + (1/9) - (1/11));
-and 4 * (1 - (1/3) + (1/5) - (1/7) + (1/9) - (1/11) + (1/13);
-*/
-
 public class Ex1_7 {
     public static void main(String[] args) {
 

@@ -1,14 +1,5 @@
 package Chapter1;
 
-/*
-(Area and perimeter of a circle) Write a program that displays the area and pe-
-rimeter of a circle that has a radius of 5.5 using the following formulas:
-
-perimeter = 2 * radius * pi
-area = radius * radius * pi
-
-*/
-
 public class Ex1_8 {
     public static void main(String[] args) {
 
